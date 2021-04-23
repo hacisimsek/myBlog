@@ -1,6 +1,6 @@
 function HomePage() {
   return (
-    <div className="max-w-2xl mx-auto">
+    <div className="site-container">
       <div className="space-y-4">
         <h1 className="text-xl font-bold">
           Ben Hacı Şimşek, İstanbul'da yaşayan Yazılım Gelişitiricisiyim.
